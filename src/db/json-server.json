@@ -1,0 +1,42 @@
+{
+  "expense": [
+    {
+      "category": "Housing",
+      "subcategory": "Internet",
+      "amount": 250000,
+      "note": "Bayaran Internet",
+      "date": 1688539058812,
+      "id": 2
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Electricity",
+      "amount": 500000,
+      "note": "Bayar Bulanan Listrik",
+      "date": 1688539075378,
+      "id": 3
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Water",
+      "amount": 150000,
+      "note": "Bayar Bulanan Air",
+      "date": 1688539092315,
+      "id": 4
+    },
+    {
+      "category": "Daily",
+      "subcategory": "Transportation",
+      "amount": 50000,
+      "note": "Bayar Gojek",
+      "date": 1688546263345,
+      "id": 5
+    }
+  ],
+  "category": [
+    {}
+  ],
+  "subcategory": [
+    {}
+  ]
+}
